@@ -7,7 +7,7 @@ spring: #띄어쓰기 없음
 
 #  jpa:
 #    hibernate:
-#      ddl-auto: create
+#      ddl-auto: create-drop
 #    properties:
 #      hibernate:
 ##        show_sql: true
