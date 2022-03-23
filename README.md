@@ -1,5 +1,11 @@
 # springboot, jpa
 
+## 👩🏻‍💻 UI
+<img width="456" alt="image" src="https://user-images.githubusercontent.com/61579003/159642491-bf51d1ed-94d4-44ac-bc0c-aa1ea94463d7.png">
+
+## 👩🏻‍💻 주문내역
+<img width="830" alt="image" src="https://user-images.githubusercontent.com/61579003/159642836-d41cedd8-519c-42cd-8bb4-e297cd9a9be0.png">
+
 ## 👩🏻‍💻 사용기능
 사용 기능: web, thymeleaf, jpa, h2, lombok, validation
 
